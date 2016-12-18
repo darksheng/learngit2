@@ -1,2 +1,2 @@
 git is an amazing software
-Creating a new branch is quick.
+Creating a new new branch is quick.
