@@ -1,3 +1,3 @@
 git is an amazing software
-git is gerat
+git is gerat and merge
 
